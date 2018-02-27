@@ -1,0 +1,41 @@
+#include<iostream>
+#include<algorithm>
+//#include<stdlib.h> 
+using namespace std;
+/*Sortt函数的第三个参数可以用这样的语句告诉程序你所采用的排序原则
+
+less<数据类型>()//从小到大排序
+
+greater<数据类型>()//从大到小排序
+sort(a,a+10,greater<int>());
+字符排序sort(a,a+10,greater<char>());
+sort(range[1],range[1]+k),greater<int>());//range[1]+k+1
+
+*/
+
+/*
+if(c[i]>='A'&&c[i]<='Z')
+{
+c[i]=c[i]+32;
+is[i]=1;
+}*/
+
+for(i=a;i<=b;i++)
+{num=i;
+while(num!=0)
+   {
+   d[k]=(num%10);
+   num=num/10;
+   k++;
+    }
+for(j=0;j<7;j++)
+if(d[j]!=-1)
+sum+=c[d[j]];
+
+k=0;               
+memset(d,-1,sizeof(d));   
+}    
+printf("%ld",sum);    
+system("pause");
+return 0;
+}
