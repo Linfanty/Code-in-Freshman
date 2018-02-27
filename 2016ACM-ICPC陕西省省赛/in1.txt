@@ -1,0 +1,5 @@
+    printf("Goodluck.");     // test
+//test          //情况一 no flag = 0
+    //tset  //情况一 no flag = 0
+            // test     //情况四 no
+    printf("Goodluck.");     // test//情况五 换行 flag = 1

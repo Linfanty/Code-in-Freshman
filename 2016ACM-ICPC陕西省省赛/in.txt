@@ -1,0 +1,42 @@
+#include<stdio.h>
+//test          //情况一 no flag = 0
+        //tset  //情况一 no flag = 0
+int main()
+{
+    printf("Helloworld.");
+    return 0;
+}
+#include<stdio.h>
+/* ----         //情况二 no
+---- */         //情况三 no
+
+        /*...   // flag = 0
+        */      //falg = 0
+
+int main()
+{
+    // test     //情况四 no
+    printf("Goodluck.");     // test//情况五 换行 flag = 1
+    return 0;   /* -- */     //情况六 换行  flag = 1
+}
+
+/*
+#include<stdio.h>
+//test
+int main()
+{
+    printf("Helloworld.");
+    return 0;
+}
+#include<stdio.h>
+/* ----
+---- */
+
+int main()
+{
+    // test
+    printf("Goodluck.");     // test
+    return 0;   /* -- */
+}
+*/
+
