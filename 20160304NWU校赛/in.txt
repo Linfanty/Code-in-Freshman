@@ -1,0 +1,6 @@
+4 2
+abba
+8 1
+aabaabaa
+20 3
+aabbababaaaababaabba
