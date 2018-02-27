@@ -1,0 +1,2737 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2017-04-09T20:29:50</o:Created>
+     <o:LastSaved>2017-04-09T20:30:00</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-10.1.0.6260</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:14.1pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font4
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font13
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font14
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font17
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font18
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font19
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:14.1pt;
+	font-weight:700;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"h:mm:ss";
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>榜单</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>280</x:DefaultRowHeight>
+        <x:StandardWidth>2234</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>0</x:ActiveRow>
+          <x:RangeSelection>A1:O1</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7320</x:WindowHeight>
+     <x:WindowWidth>19100</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="2107.50" border="0" cellpadding="0" cellspacing="0" style='width:1053.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="56.50" style='mso-width-source:userset;mso-width-alt:1377;'/>
+   <col width="205.50" style='mso-width-source:userset;mso-width-alt:5010;'/>
+   <col width="432" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="76.50" style='mso-width-source:userset;mso-width-alt:1865;'/>
+   <col width="56.50" style='mso-width-source:userset;mso-width-alt:1377;'/>
+   <col width="138" style='mso-width-source:userset;mso-width-alt:3364;'/>
+   <col width="149.50" style='mso-width-source:userset;mso-width-alt:3644;'/>
+   <col width="138" span="3" style='mso-width-source:userset;mso-width-alt:3364;'/>
+   <col width="66.50" style='mso-width-source:userset;mso-width-alt:1621;'/>
+   <col width="138" style='mso-width-source:userset;mso-width-alt:3364;'/>
+   <col width="149.50" style='mso-width-source:userset;mso-width-alt:3644;'/>
+   <col width="138" style='mso-width-source:userset;mso-width-alt:3364;'/>
+   <col width="87" style='mso-width-source:userset;mso-width-alt:2121;'/>
+   <tr height="35" style='height:17.50pt;mso-height-source:userset;mso-height-alt:350;'>
+    <td class="xl65" height="35" width="2107.50" colspan="15" style='height:17.50pt;width:1053.75pt;border-right:none;border-bottom:none;' x:str>Contest RankList -- 2017陕西师范大学第六届程序设计大赛</td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td height="28" colspan="15" style='height:14.00pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl66" height="28" style='height:14.00pt;' x:str>Rank</td>
+    <td class="xl66" x:str>User</td>
+    <td class="xl66" x:str>Nick</td>
+    <td class="xl66" x:str>Solved</td>
+    <td class="xl66" x:str>Mark</td>
+    <td class="xl66" x:str>A</td>
+    <td class="xl66" x:str>B</td>
+    <td class="xl66" x:str>C</td>
+    <td class="xl66" x:str>D</td>
+    <td class="xl66" x:str>E</td>
+    <td class="xl66" x:str>F</td>
+    <td class="xl66" x:str>G</td>
+    <td class="xl66" x:str>H</td>
+    <td class="xl66" x:str>I</td>
+    <td class="xl66" x:str>J</td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>1</td>
+    <td class="xl67" x:num>41412175</td>
+    <td class="xl67" x:str>*给楼上dalao递帽</td>
+    <td class="xl67" x:num>8</td>
+    <td class="xl67" x:num>90</td>
+    <td class="xl68" x:num="8.3483796296296292e-002">2:00:13</td>
+    <td class="xl67" x:str>02:21:25(-5)</td>
+    <td class="xl67" x:str>01:05:51(-1)</td>
+    <td class="xl68" x:num="1.3900462962962963e-002">0:20:01</td>
+    <td class="xl68" x:num="2.585648148148148e-002">0:37:14</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="5.5497685185185185e-002">1:19:55</td>
+    <td class="xl67" x:str>03:57:10(-2)</td>
+    <td class="xl68" x:num="0.14871527777777777">3:34:09</td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>2</td>
+    <td class="xl67" x:str>ORZ_HG</td>
+    <td class="xl67" x:str>CHD_A05_SLP_清理兵线</td>
+    <td class="xl67" x:num>8</td>
+    <td class="xl67" x:num>89</td>
+    <td class="xl67" x:str>00:16:08(-2)</td>
+    <td class="xl68" x:num="1.8888888888888889e-002">0:27:12</td>
+    <td class="xl68" x:num="1.4328703703703703e-002">0:20:38</td>
+    <td class="xl67" x:str>01:34:49(-2)</td>
+    <td class="xl67" x:str>02:00:00(-9)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>03:05:28(-1)</td>
+    <td class="xl67" x:str>02:50:25(-6)</td>
+    <td class="xl68" x:num="0.15425925925925926">3:42:08</td>
+    <td class="xl67" x:str>(-1)</td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>3</td>
+    <td class="xl67" x:num>15069120064</td>
+    <td class="xl67" x:str>XDU_B08_王堃</td>
+    <td class="xl67" x:num>6</td>
+    <td class="xl67" x:num>88</td>
+    <td class="xl68" x:num="7.6041666666666671e-003">0:10:57</td>
+    <td class="xl67" x:str>00:22:16(-2)</td>
+    <td class="xl67" x:str>01:18:19(-2)</td>
+    <td class="xl68" x:num="5.8877314814814813e-002">1:24:47</td>
+    <td class="xl67" x:str>03:06:05(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>02:35:07(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>4</td>
+    <td class="xl67" x:str>xiekeyi98</td>
+    <td class="xl67" x:str>C13_SNNU_NOOB</td>
+    <td class="xl67" x:num>6</td>
+    <td class="xl67" x:num>87</td>
+    <td class="xl67" x:str>01:01:28(-2)</td>
+    <td class="xl67" x:str>00:25:46(-2)</td>
+    <td class="xl67" x:str>01:06:23(-1)</td>
+    <td class="xl68" x:num="2.841435185185185e-002">0:40:55</td>
+    <td class="xl67" x:str>01:31:03(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>02:41:34(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>5</td>
+    <td class="xl67" x:num>2016118082</td>
+    <td class="xl67" x:str>NWU_A11_沈佳乐</td>
+    <td class="xl67" x:num>6</td>
+    <td class="xl67" x:num>87</td>
+    <td class="xl67" x:str>00:17:44(-3)</td>
+    <td class="xl67" x:str>01:09:21(-3)</td>
+    <td class="xl68" x:num="7.03125e-002">1:41:15</td>
+    <td class="xl67" x:str>02:47:42(-1)</td>
+    <td class="xl67" x:str>02:15:02(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="7.9988425925925921e-002">1:55:11</td>
+    <td class="xl67" x:str>(-5)</td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>6</td>
+    <td class="xl67" x:str>D04_flytosky2015</td>
+    <td class="xl67" x:str>XUPT_D04_flytosky2015</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>87</td>
+    <td class="xl68" x:num="4.7800925925925927e-003">0:06:53</td>
+    <td class="xl68" x:num="7.6851851851851855e-003">0:11:04</td>
+    <td class="xl68" x:num="1.6238425925925927e-002">0:23:23</td>
+    <td class="xl67" x:str>00:56:45(-3)</td>
+    <td class="xl67" x:str>(-12)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl67" x:str>02:29:45(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>7</td>
+    <td class="xl67" x:str>XUPT_D08</td>
+    <td class="xl67" x:str>XUPT_D08_Infinity233</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>86</td>
+    <td class="xl67" x:str>00:21:17(-2)</td>
+    <td class="xl67" x:str>00:17:20(-1)</td>
+    <td class="xl67" x:str>01:43:28(-1)</td>
+    <td class="xl67" x:str>02:12:07(-1)</td>
+    <td class="xl68" x:num="8.5381944444444441e-002">2:02:57</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>8</td>
+    <td class="xl67" x:str>A03</td>
+    <td class="xl67" x:str>A03_习近平</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>86</td>
+    <td class="xl68" x:num="7.2685185185185188e-003">0:10:28</td>
+    <td class="xl67" x:str>00:24:19(-2)</td>
+    <td class="xl68" x:num="5.2106481481481483e-002">1:15:02</td>
+    <td class="xl67" x:str>02:48:48(-1)</td>
+    <td class="xl67" x:str>03:10:50(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>9</td>
+    <td class="xl67" x:str>D07_practer</td>
+    <td class="xl67" x:str>XUPT_D07_practer</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>86</td>
+    <td class="xl67" x:str>00:56:05(-3)</td>
+    <td class="xl67" x:str>02:42:39(-9)</td>
+    <td class="xl67" x:str>01:44:32(-2)</td>
+    <td class="xl68" x:num="0.10005787037037037">2:24:05</td>
+    <td class="xl68" x:num="0.1323148148148148">3:10:32</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>10</td>
+    <td class="xl67" x:num>2016902520</td>
+    <td class="xl67" x:str>CHD_B14_江小夏</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>85</td>
+    <td class="xl67" x:str>01:13:13(-8)</td>
+    <td class="xl67" x:str>00:48:51(-1)</td>
+    <td class="xl67" x:str>02:17:35(-4)</td>
+    <td class="xl68" x:num="7.3784722222222224e-002">1:46:15</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:31:27(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>11</td>
+    <td class="xl67" x:num>3160911001</td>
+    <td class="xl67" x:str>XAUT-H09-马晨翰</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>85</td>
+    <td class="xl67" x:str>00:32:47(-4)</td>
+    <td class="xl68" x:num="3.5370370370370371e-002">0:50:56</td>
+    <td class="xl67" x:str>02:53:35(-2)</td>
+    <td class="xl67" x:str>01:48:07(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:57:50(-11)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>12</td>
+    <td class="xl67" x:str>wangnan</td>
+    <td class="xl67" x:str>XUPT_D03_wn1137162270</td>
+    <td class="xl67" x:num>5</td>
+    <td class="xl67" x:num>85</td>
+    <td class="xl67" x:str>03:27:22(-9)</td>
+    <td class="xl67" x:str>01:25:58(-1)</td>
+    <td class="xl68" x:num="8.3530092592592586e-002">2:00:17</td>
+    <td class="xl68" x:num="0.11436342592592592">2:44:41</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="0.13538194444444446">3:14:57</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>13</td>
+    <td class="xl67" x:str>D05_wuyuewuyue</td>
+    <td class="xl67" x:str>XUPT_D05_wuyuewuyue</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>85</td>
+    <td class="xl68" x:num="7.1412037037037034e-003">0:10:17</td>
+    <td class="xl67" x:str>00:26:18(-1)</td>
+    <td class="xl68" x:num="7.9166666666666663e-002">1:54:00</td>
+    <td class="xl67" x:str>(-16)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="9.4259259259259265e-002">2:15:44</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>14</td>
+    <td class="xl67" x:str>zxc452777</td>
+    <td class="xl67" x:str>XDU_D01_yeleng</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>85</td>
+    <td class="xl68" x:num="1.474537037037037e-002">0:21:14</td>
+    <td class="xl67" x:str>00:27:48(-3)</td>
+    <td class="xl67" x:str>02:20:52(-1)</td>
+    <td class="xl67" x:str>(-10)</td>
+    <td class="xl68" x:num="4.5787037037037036e-002">1:05:56</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>15</td>
+    <td class="xl67" x:str>D06_moha</td>
+    <td class="xl67" x:str>XUPT_D06_moha</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>84</td>
+    <td class="xl67" x:str>00:12:58(-1)</td>
+    <td class="xl68" x:num="1.7569444444444443e-002">0:25:18</td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="4.8946759259259259e-002">1:10:29</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:00:08(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>16</td>
+    <td class="xl67" x:str>CHD_lwqq3</td>
+    <td class="xl67" x:str>CHD_A04_江流儿</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>84</td>
+    <td class="xl67" x:str>00:40:52(-3)</td>
+    <td class="xl67" x:str>00:36:38(-3)</td>
+    <td class="xl68" x:num="5.2337962962962961e-002">1:15:22</td>
+    <td class="xl68" x:num="7.9907407407407413e-002">1:55:04</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>17</td>
+    <td class="xl67" x:num>41312122</td>
+    <td class="xl67" x:str>*B25韩雪冉</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>84</td>
+    <td class="xl68" x:num="4.9247685185185186e-002">1:10:55</td>
+    <td class="xl68" x:num="1.3344907407407408e-002">0:19:13</td>
+    <td class="xl67" x:str>01:34:08(-2)</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:04:00(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>18</td>
+    <td class="xl67" x:num>2016302498</td>
+    <td class="xl67" x:str>nwpu_D14_王源</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>84</td>
+    <td class="xl67" x:str>00:51:49(-6)</td>
+    <td class="xl67" x:str>01:37:05(-2)</td>
+    <td class="xl67" x:str>01:20:43(-1)</td>
+    <td class="xl68" x:num="3.0949074074074073e-002">0:44:34</td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>19</td>
+    <td class="xl67" x:num>14010120036</td>
+    <td class="xl67" x:str>XDU_C10_witnessai</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>84</td>
+    <td class="xl67" x:str>00:40:26(-1)</td>
+    <td class="xl68" x:num="1.636574074074074e-002">0:23:34</td>
+    <td class="xl67" x:str>02:55:50(-4)</td>
+    <td class="xl67" x:str>01:36:19(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>20</td>
+    <td class="xl67" x:num>41412200</td>
+    <td class="xl67" x:str>vivi</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>84</td>
+    <td class="xl67" x:str>00:43:57(-2)</td>
+    <td class="xl67" x:str>01:18:57(-2)</td>
+    <td class="xl68" x:num="0.10665509259259259">2:33:35</td>
+    <td class="xl68" x:num="7.0127314814814809e-002">1:40:59</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>21</td>
+    <td class="xl67" x:num>41612194</td>
+    <td class="xl67" x:str>B06_snnu_cy</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>00:20:23(-2)</td>
+    <td class="xl67" x:str>00:59:49(-1)</td>
+    <td class="xl68" x:num="8.8506944444444444e-002">2:07:27</td>
+    <td class="xl67" x:str>02:31:42(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>22</td>
+    <td class="xl67" x:str>AlphaBack01_D10</td>
+    <td class="xl67" x:str>XUPT_D10_heyanliang</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl68" x:num="3.6446759259259262e-002">0:52:29</td>
+    <td class="xl67" x:str>00:48:26(-2)</td>
+    <td class="xl67" x:str>03:14:10(-1)</td>
+    <td class="xl67" x:str>02:32:54(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>23</td>
+    <td class="xl67" x:str>A02_NWU_nervending</td>
+    <td class="xl67" x:str>nervending</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>00:24:34(-3)</td>
+    <td class="xl67" x:str>00:49:29(-4)</td>
+    <td class="xl67" x:str>01:34:26(-3)</td>
+    <td class="xl67" x:str>02:06:58(-3)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>24</td>
+    <td class="xl67" x:num>2016118133</td>
+    <td class="xl67" x:str>NWU_C01_tuweilong</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>01:00:17(-6)</td>
+    <td class="xl67" x:str>01:28:18(-4)</td>
+    <td class="xl68" x:num="7.2442129629629634e-002">1:44:19</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-15)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>02:18:35(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>25</td>
+    <td class="xl67" x:str>OneDimension</td>
+    <td class="xl67" x:str>CHD_A08_OneDimension</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>00:24:47(-2)</td>
+    <td class="xl67" x:str>00:33:54(-3)</td>
+    <td class="xl67" x:str>00:43:37(-2)</td>
+    <td class="xl67" x:str>03:52:00(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-11)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="52" style='height:26.00pt;'>
+    <td class="xl67" height="52" style='height:26.00pt;' x:num>26</td>
+    <td class="xl67" x:str>Willmoon</td>
+    <td class="xl67" x:str>NWU_C04_Willmoon名字一定要长长长长长长长长长长</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>01:15:25(-5)</td>
+    <td class="xl67" x:str>00:38:29(-1)</td>
+    <td class="xl67" x:str>01:40:22(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>03:47:39(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>27</td>
+    <td class="xl67" x:str>AlphaBack02_D11</td>
+    <td class="xl67" x:str>XUPT_D11_qiaoyifan</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>02:08:35(-2)</td>
+    <td class="xl67" x:str>00:20:51(-2)</td>
+    <td class="xl67" x:str>03:40:35(-1)</td>
+    <td class="xl67" x:str>02:21:25(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>28</td>
+    <td class="xl67" x:num>2016301709</td>
+    <td class="xl67" x:str>NWPU_D12_王岩松</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>83</td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl67" x:str>00:35:49(-2)</td>
+    <td class="xl67" x:str>01:44:59(-4)</td>
+    <td class="xl67" x:str>03:53:21(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:12:15(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>29</td>
+    <td class="xl67" x:str>ianahao</td>
+    <td class="xl67" x:str>NWU_H08_ianahao</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>01:31:29(-5)</td>
+    <td class="xl67" x:str>01:02:59(-1)</td>
+    <td class="xl67" x:str>01:58:50(-4)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:51:48(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>30</td>
+    <td class="xl67" x:num>15130127001</td>
+    <td class="xl67" x:str>XDU_C12_Challenge_</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>01:58:45(-1)</td>
+    <td class="xl67" x:str>02:43:38(-5)</td>
+    <td class="xl68" x:num="0.14505787037037038">3:28:53</td>
+    <td class="xl68" x:num="0.15177083333333333">3:38:33</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>31</td>
+    <td class="xl67" x:str>limn2o4_d1709</td>
+    <td class="xl67" x:str>XUPT_D09_limn2o4</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>02:03:16(-6)</td>
+    <td class="xl67" x:str>01:02:25(-6)</td>
+    <td class="xl67" x:str>02:26:54(-3)</td>
+    <td class="xl67" x:str>02:56:35(-3)</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>32</td>
+    <td class="xl67" x:num>41612158</td>
+    <td class="xl67" x:str>SNNU_C05_陈睿</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>02:21:17(-6)</td>
+    <td class="xl67" x:str>01:47:21(-3)</td>
+    <td class="xl67" x:str>03:09:47(-3)</td>
+    <td class="xl67" x:str>03:32:08(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>33</td>
+    <td class="xl67" x:num>2016118026</td>
+    <td class="xl67" x:str>C02_nwu_攻击我方程咬金</td>
+    <td class="xl67" x:num>4</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>02:17:16(-5)</td>
+    <td class="xl67" x:str>01:45:46(-19)</td>
+    <td class="xl68" x:num="8.2511574074074071e-002">1:58:49</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:39:23(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>34</td>
+    <td class="xl67" x:num>3160911028</td>
+    <td class="xl67" x:str>XUT_G03_范炜轩</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl68" x:num="1.0150462962962964e-002">0:14:37</td>
+    <td class="xl68" x:num="1.8506944444444444e-002">0:26:39</td>
+    <td class="xl67" x:str>01:46:21(-3)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>35</td>
+    <td class="xl67" x:str>qq2380625050</td>
+    <td class="xl67" x:str>xaut_C14_张富强</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>00:34:04(-1)</td>
+    <td class="xl68" x:num="8.3101851851851843e-003">0:11:58</td>
+    <td class="xl67" x:str>02:12:06(-1)</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl67" x:str>(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>36</td>
+    <td class="xl67" x:num>3160911002</td>
+    <td class="xl67" x:str>F01_XUT_王昊辰</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>01:02:13(-1)</td>
+    <td class="xl67" x:str>01:49:49(-5)</td>
+    <td class="xl68" x:num="9.1863425925925932e-002">2:12:17</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>37</td>
+    <td class="xl67" x:num>41612161</td>
+    <td class="xl67" x:str>SNNU-B12-wwx212</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>01:25:35(-2)</td>
+    <td class="xl68" x:num="1.1828703703703704e-002">0:17:02</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:57:27(-5)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>38</td>
+    <td class="xl67" x:str>XDU_15030199007</td>
+    <td class="xl67" x:str>XDU_C11_rocky_</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>82</td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl67" x:str>02:07:28(-4)</td>
+    <td class="xl67" x:str>02:29:11(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="3.5902777777777777e-002">0:51:42</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>39</td>
+    <td class="xl67" x:num>41505208</td>
+    <td class="xl67" x:str>JSY</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl68" x:num="6.5844907407407408e-002">1:34:49</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl67" x:str>03:08:03(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>01:06:45(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>40</td>
+    <td class="xl67" x:num>16020120071</td>
+    <td class="xl67" x:str>XDU_C07_wym6912</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>00:20:39(-4)</td>
+    <td class="xl67" x:str>(-10)</td>
+    <td class="xl67" x:str>01:45:16(-7)</td>
+    <td class="xl67" x:str>03:05:07(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>41</td>
+    <td class="xl67" x:num>41612193</td>
+    <td class="xl67" x:str>SNNU-A07-高文乐</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>00:53:31(-1)</td>
+    <td class="xl67" x:str>03:34:20(-7)</td>
+    <td class="xl67" x:str>02:29:20(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>42</td>
+    <td class="xl67" x:num>2016118144</td>
+    <td class="xl67" x:str>NWU_A10_谢均宇</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>00:12:37(-1)</td>
+    <td class="xl67" x:str>02:44:39(-10)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:19:29(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>43</td>
+    <td class="xl67" x:num>41612241</td>
+    <td class="xl67" x:str>SNNU_g07_董立恒</td>
+    <td class="xl67" x:num>3</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>02:54:15(-7)</td>
+    <td class="xl67" x:str>02:27:27(-8)</td>
+    <td class="xl68" x:num="0.14465277777777777">3:28:18</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>44</td>
+    <td class="xl67" x:num>3160811037</td>
+    <td class="xl67" x:str>B09_xaut_邱万力</td>
+    <td class="xl67" x:num>2</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl68" x:num="3.1064814814814816e-002">0:44:44</td>
+    <td class="xl67" x:str>01:49:08(-2)</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>45</td>
+    <td class="xl67" x:num>41509004</td>
+    <td class="xl67" x:str>*A6测试账号</td>
+    <td class="xl67" x:num>2</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="0.10188657407407407">2:26:43</td>
+    <td class="xl68" x:num="7.0532407407407405e-002">1:41:34</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>46</td>
+    <td class="xl67" x:num>3160911003</td>
+    <td class="xl67" x:str>xaut_G05_wangyihan</td>
+    <td class="xl67" x:num>2</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>02:52:27(-3)</td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl67" x:str>03:59:30(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>47</td>
+    <td class="xl67" x:str>maojiehuang</td>
+    <td class="xl67" x:str>NWU_A12_黄茂杰</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl67" x:str>00:10:29(-1)</td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl67" x:str>(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>48</td>
+    <td class="xl67" x:num>3160921024</td>
+    <td class="xl67" x:str>XAUT_F02_赵鹏</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>81</td>
+    <td class="xl67" x:str>00:54:01(-1)</td>
+    <td class="xl67" x:str>(-16)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>49</td>
+    <td class="xl67" x:num>31509130167</td>
+    <td class="xl67" x:num>23333</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl67" x:str>00:47:50(-2)</td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>50</td>
+    <td class="xl67" x:str>D02VAkylin</td>
+    <td class="xl67" x:str>XUPT_D02_VAkylin</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl67" x:str>01:10:44(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>51</td>
+    <td class="xl67" x:str>*4444444</td>
+    <td class="xl67" x:str>*4444444</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>01:57:12(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>52</td>
+    <td class="xl67" x:num>41612122</td>
+    <td class="xl67" x:str>SNNU_F11 __郑晓龙</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl67" x:str>01:15:17(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-13)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>53</td>
+    <td class="xl67" x:str>wn1137162270</td>
+    <td class="xl67" x:str>D03_XUPT_wn1137162270</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="0.11372685185185186">2:43:46</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>54</td>
+    <td class="xl67" x:num>41512186</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="0.12369212962962962">2:58:07</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>55</td>
+    <td class="xl67" x:num>41612077</td>
+    <td class="xl67" x:str>SNNU_G10_guoziqi</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl68" x:num="0.13335648148148149">3:12:02</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>56</td>
+    <td class="xl67" x:num>3160811043</td>
+    <td class="xl67" x:str>XAUT_B13_yanghao</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>02:32:41(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>57</td>
+    <td class="xl67" x:num>15130188031</td>
+    <td class="xl67" x:str>XDU_C08_郑琪</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-13)</td>
+    <td class="xl68" x:num="0.14687500000000001">3:31:30</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>58</td>
+    <td class="xl67" x:num>41612092</td>
+    <td class="xl67" x:str>SNNU_G09_pengxiaohua</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>03:25:36(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>59</td>
+    <td class="xl67" x:num>41612151</td>
+    <td class="xl67" x:str>SNNU_E02_乔治</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>80</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>02:22:07(-9)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>60</td>
+    <td class="xl67" x:num>2016118039</td>
+    <td class="xl67" x:str>NWU_A09_刘爱洁</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl67" x:str>02:46:15(-9)</td>
+    <td class="xl67" x:str>(-15)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>61</td>
+    <td class="xl67" x:num>41612237</td>
+    <td class="xl67" x:str>SNNU-G06-高立赟</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>03:33:09(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>62</td>
+    <td class="xl67" x:num>41612203</td>
+    <td class="xl67" x:str>SNNU_G11_Archer</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>02:17:53(-12)</td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>63</td>
+    <td class="xl67" x:num>41612090</td>
+    <td class="xl67" x:str>H05刘琦</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl67" x:str>(-5)</td>
+    <td class="xl67" x:str>03:58:04(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>64</td>
+    <td class="xl67" x:num>41612266</td>
+    <td class="xl67" x:str>SNNU_E08_伍婷玉</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl67" x:str>03:23:14(-12)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>65</td>
+    <td class="xl67" x:num>41612204</td>
+    <td class="xl67" x:str>SNNU_F9_41612204</td>
+    <td class="xl67" x:num>1</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>03:10:35(-17)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>66</td>
+    <td class="xl67" x:num>41612261</td>
+    <td class="xl67" x:str>B03 _SNNU _郭雅静</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-10)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-10)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>67</td>
+    <td class="xl67" x:num>41612252</td>
+    <td class="xl67" x:str>I2_SNNU_陈亚丽</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl67" x:str>(-5)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>68</td>
+    <td class="xl67" x:num>41612255</td>
+    <td class="xl67" x:str>SNNU_B04_张筠瑶</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-18)</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>69</td>
+    <td class="xl67" x:num>41612258</td>
+    <td class="xl67" x:str>SNNU_H6_lsq</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>79</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>70</td>
+    <td class="xl67" x:num>41612269</td>
+    <td class="xl67" x:str>B01_SNNU_周子璇</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>71</td>
+    <td class="xl67" x:str>cling</td>
+    <td class="xl67" x:str>SNNU-J3-丁亚超</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-14)</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>72</td>
+    <td class="xl67" x:str>XUD_15030199007</td>
+    <td class="xl67" x:str>XDU_C11_rocky_</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>73</td>
+    <td class="xl67" x:num>41612268</td>
+    <td class="xl67" x:str>snnu_I4_孟旭莹</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-21)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>74</td>
+    <td class="xl67" x:num>41612265</td>
+    <td class="xl67" x:str>SNNU_I3_ 冯相榕</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>75</td>
+    <td class="xl67" x:num>41612164</td>
+    <td class="xl67" x:str>SNNU_G02_赵旗</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl67" x:str>(-14)</td>
+    <td class="xl67" x:str>(-22)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>76</td>
+    <td class="xl67" x:num>41612040</td>
+    <td class="xl67" x:str>SNNU_F08_李欢</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>77</td>
+    <td class="xl67" x:num>41612037</td>
+    <td class="xl67" x:str>SNNU_F04_冯苗苗</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>78</td>
+    <td class="xl67" x:num>41612035</td>
+    <td class="xl67" x:str>SNNU_F05_王昊曈</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>79</td>
+    <td class="xl67" x:num>41612041</td>
+    <td class="xl67" x:str>SNNU_H10_张雪</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>78</td>
+    <td class="xl67" x:str>(-8)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>80</td>
+    <td class="xl67" x:num>41612055</td>
+    <td class="xl67" x:str>SNNU_F06_李业铃</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>81</td>
+    <td class="xl67" x:num>41612130</td>
+    <td class="xl67" x:str>SNNU_J6_姚文勤</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>82</td>
+    <td class="xl67" x:num>41612067</td>
+    <td class="xl67" x:str>G08 SNNU 赵志硕</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>83</td>
+    <td class="xl67" x:num>41612007</td>
+    <td class="xl67" x:str>SNNU-J2-张星</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>84</td>
+    <td class="xl67" x:num>41612003</td>
+    <td class="xl67" x:str>SNNU_E06_潘玉玺</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-12)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>85</td>
+    <td class="xl67" x:num>2016118020</td>
+    <td class="xl67" x:str>NWU_C03_攻击我方水晶</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-10)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>86</td>
+    <td class="xl67" x:num>96248</td>
+    <td class="xl67" x:str>SNNU_SNNU_MAOMAO</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>87</td>
+    <td class="xl67" x:num>41412218</td>
+    <td class="xl67" x:str>*Kaito测试</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>77</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>88</td>
+    <td class="xl67" x:num>41415188</td>
+    <td class="xl67" x:str>SNNU_G04_罗淦匀</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>76</td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>89</td>
+    <td class="xl67" x:num>41612001</td>
+    <td class="xl67" x:str>SNNU_E05_陈安德</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>76</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>90</td>
+    <td class="xl67" x:num>41524007</td>
+    <td class="xl67" x:str>sunshine</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>76</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>91</td>
+    <td class="xl67" x:num>41612138</td>
+    <td class="xl67" x:str>SNNU_F10_付志英</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>76</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>92</td>
+    <td class="xl67" x:num>41612153</td>
+    <td class="xl67" x:str>SNNU_H01_TJM</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>76</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>93</td>
+    <td class="xl67" x:num>41612201</td>
+    <td class="xl67" x:str>snnu-j4-徐贤达</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>76</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-17)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>94</td>
+    <td class="xl67" x:num>41612199</td>
+    <td class="xl67" x:str>SNNU_E10_田野</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>75</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>95</td>
+    <td class="xl67" x:num>41612202</td>
+    <td class="xl67" x:str>SNNU_E11_肖鹏波</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>75</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-22)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>96</td>
+    <td class="xl67" x:num>41612207</td>
+    <td class="xl67" x:str>SNNU_A14_李文浩</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>75</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>97</td>
+    <td class="xl67" x:num>41612240</td>
+    <td class="xl67" x:str>c09_snnu_iop</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>75</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-7)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>98</td>
+    <td class="xl67" x:num>41612239</td>
+    <td class="xl67" x:str>SNNU_E09_李道渊</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>75</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-15)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>99</td>
+    <td class="xl67" x:num>41612197</td>
+    <td class="xl67" x:str>SNNU_E07_陈源</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>74</td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>100</td>
+    <td class="xl67" x:num>41612196</td>
+    <td class="xl67" x:str>SNNU_A13_彭卫杰</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>74</td>
+    <td class="xl67" x:str>(-9)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>101</td>
+    <td class="xl67" x:num>41612175</td>
+    <td class="xl67" x:str>SNNU_H3_田凌云</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>74</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>102</td>
+    <td class="xl67" x:num>41612156</td>
+    <td class="xl67" x:str>SNNU_E03_刘成</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>73</td>
+    <td class="xl67" x:str>(-4)</td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>103</td>
+    <td class="xl67" x:num>41612178</td>
+    <td class="xl67" x:str>SNNU_E04_魏钰冰</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>73</td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl67" x:str>(-12)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-8)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-2)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>104</td>
+    <td class="xl67" x:num>41612185</td>
+    <td class="xl67" x:str>SNNU_G01_王淡宁</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>73</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>105</td>
+    <td class="xl67" x:num>41612188</td>
+    <td class="xl67" x:str>SNNU_I5_苏静晗</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>72</td>
+    <td class="xl67" x:str>(-10)</td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>106</td>
+    <td class="xl67" x:num>41612186</td>
+    <td class="xl67" x:str>SNNU_H4_秦可楠</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>71</td>
+    <td class="xl67" x:str>(-6)</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-3)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="28" style='height:14.00pt;'>
+    <td class="xl67" height="28" style='height:14.00pt;' x:num>107</td>
+    <td class="xl67" x:num>41612250</td>
+    <td class="xl67" x:str>SNNU_B02_张蓉</td>
+    <td class="xl67" x:num>0</td>
+    <td class="xl67" x:num>70</td>
+    <td class="xl69"></td>
+    <td class="xl67" x:str>(-1)</td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+    <td class="xl69"></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="57" style='width:28;'></td>
+     <td width="206" style='width:103;'></td>
+     <td width="432" style='width:216;'></td>
+     <td width="77" style='width:38;'></td>
+     <td width="57" style='width:28;'></td>
+     <td width="138" style='width:69;'></td>
+     <td width="150" style='width:75;'></td>
+     <td width="138" style='width:69;'></td>
+     <td width="67" style='width:33;'></td>
+     <td width="138" style='width:69;'></td>
+     <td width="150" style='width:75;'></td>
+     <td width="138" style='width:69;'></td>
+     <td width="87" style='width:44;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

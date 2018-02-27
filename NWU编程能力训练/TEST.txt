@@ -1,0 +1,34 @@
+http://vjudge.net/contest/123831
+http://vjudge.net/contest/142389#overview
+http://vjudge.net/contest/142870#overview
+
+https://vjudge.net/contest
+https://vjudge.net/contest#category=all&running=0&openness=-1&title=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6&owner=
+
+NET Framework v4.0.30319
+
+http://paste.ubuntu.com
+http://my.csdn.net/qq_28300479   Jstyle_AC CSDN博客
+
+color /? 里面写的很清楚
+
+颜色属性由两个十六进制数字指定 -- 第一个为背景，第二个则为前景。每个数字可以为以下任何值之一:
+
+    0 = 黑色       8 = 灰色
+    1 = 蓝色       9 = 淡蓝色
+    2 = 绿色       A = 淡绿色
+    3 = 湖蓝色     B = 淡浅绿色
+    4 = 红色       C = 淡红色
+    5 = 紫色       D = 淡紫色
+    6 = 黄色       E = 淡黄色
+    7 = 白色       F = 亮白色
+
+https://ks.sojump.hk/wjx/join/complete.aspx?q=10420019&JoinID=683154251&jidx=15&tv=0&s=&njqj=1&rname=%E7%8E%8B%E5%A4%A9%E9%98%B3&ge=1
+https://ks.sojump.hk/wjx/join/complete.aspx?q=10420019&JoinID=683154251&jidx=15&tv=0&s=&njqj=1&rname=%E7%8E%8B%E5%A4%A9%E9%98%B3&ge=1
+
+
+http://www.cnblogs.com/chdacm CHD
+
+https://vjudge.net/contest/147630#problem/A
+A - 最少拦截系统
+https://vjudge.net/contest/147598#problem/B 1.20

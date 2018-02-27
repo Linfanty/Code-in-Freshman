@@ -1,0 +1,21 @@
+#include <stdio.h> 
+#include <stdlib.h> 
+
+int _tmain(int argc, _TCHAR* argv[]) 
+{ 
+char sentence []="0,0|0,1|"; 
+char str1 [20]; 
+char str2 [20]; 
+char str3 [20]; 
+char str4 [20]; 
+int i; 
+
+sscanf (sentence,"%[0-9]%*[,|]%[0-9]%*[,|]%[0-9]%*[,|]%[0-9]",str1,str2,str3,str4); 
+printf ("%s%s%s%s\n",str1,str2,str3,str4); 
+system("pause"); 
+return 0; 
+} 
+
+加粗那行就是关键代码，当然sscanf的用法可以细细看，以便优化用于你批量处理数据，链接：http://www.cplusplus.com/reference/clibrary/cstdio/sscanf/ 
+
+对于%[]的运算，scanf和fscanf也同样适用，所以如果你的数据是文件保存的，fscanf中“%[]”的运算可以很方便的处理需要过滤文件中的某些字符，而且速度比较快，我曾经用这个处理过数据，比C++的ifstream流输入数据快几十倍。

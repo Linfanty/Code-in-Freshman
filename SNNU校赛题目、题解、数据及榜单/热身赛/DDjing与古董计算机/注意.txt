@@ -1,0 +1,3 @@
+数据是在Linux下生成的
+由于Windows和Linux的四舍五入规则不同，浮点运算结果不一样
+评测机为Linux
