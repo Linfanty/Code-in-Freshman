@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+#define _xx ios_base::sync_with_stdio(0);cin.tie(0);
+using namespace std;
+typedef long long ll;
+string a, b;
+ll dp[1005][1005] = {0};
+int main()
+{_xx
+    cin >> a >> b;
+    for(int i = 0; i < 1005; i++) dp[i][0] = dp[0][i] = i;
+    for(int i = 1; i <= a.size(); i++)
+    {
+        for(int j = 1; j <= b.size(); j++)
+        {
+            if(a[i - 1] == b[j - 1]) dp[i][j] = dp[i - 1][j - 1];
+            else dp[i][j] = 1 + min(dp[i - 1][j], min(dp[i][j - 1], dp[i - 1][j - 1]));
+        }
+    }
+    cout << dp[a.size()][b.size()] << endl;
+    return 0;
+}

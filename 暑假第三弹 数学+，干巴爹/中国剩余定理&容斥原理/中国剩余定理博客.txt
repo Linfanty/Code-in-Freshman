@@ -1,0 +1,2 @@
+http://blog.miskcoo.com/2014/09/chinese-remainder-theorem
+其中有一处错误，见图。
